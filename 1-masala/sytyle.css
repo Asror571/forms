@@ -1,0 +1,16 @@
+table {
+    background-color: rgb(138, 240, 91);
+    width: 60%;
+    height: 40%;
+    border-radius: 10px;
+    box-shadow: 0 0 30px 10px black;
+
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100dvh;
+
+}
