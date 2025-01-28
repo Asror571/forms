@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    width: 100vw;
+    height: 100dvh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+    .first_name{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border:  2px solid gray;
+        padding: 100px;
+        box-shadow: 0 0 10px 4px grey;
+        
+    }
+    
